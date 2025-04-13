@@ -6,7 +6,7 @@ This repository contains a faithful copy and enhancement of the LMS platform cre
 
 ## Live Demo
 
-A working version of this app is available at [https://lms.kendevco.co](will upload soon).
+A working version of this app is available at (will upload soon).
 
 ## Key Dependencies Versions
 

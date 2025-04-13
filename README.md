@@ -1,8 +1,3 @@
-## LMS Platform
-
-# LMS Platform
-
-This repository contains a faithful copy and enhancement of the LMS platform created by CodeWithAntonio in the tutorial [Learn Next & React and get Hired!](https://www.youtube.com/watch?v=Big_aFLmekI).
 
 ## Live Demo
 

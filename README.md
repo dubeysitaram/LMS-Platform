@@ -6,7 +6,7 @@ This repository contains a faithful copy and enhancement of the LMS platform cre
 
 ## Live Demo
 
-A working version of this app is available at [https://lms.kendevco.co](https://lms.kendevco.co).
+A working version of this app is available at [https://lms.kendevco.co](will upload soon).
 
 ## Key Dependencies Versions
 
@@ -29,12 +29,6 @@ This project uses the following major dependencies:
 - Comments have been added and code has been tidied up.
 - Occasional reports of black screen or other issues at runtime have been received, possibly related to Clerk integration.
 
-## Call for Collaboration
-
-If you're a budding developer looking for an exciting project:
-
-- Consider contributing to [Payload Nuke](https://github.com/payloadnuke)
-- Help shape its future by contributing to the [draft constitution](https://docs.google.com/document/d/1TaYHs0CSk76xBFu5ps-2BpyWsZkS2getV41_8Q0tO34/edit?usp=sharing)
 
 **Key Features:**
 
@@ -99,11 +93,3 @@ To reset the database, run:
     npx prisma migrate reset
     npx prisma db push
 
-Note that when I ran npx prisma migrate reset against mongodb.com I ran
-into errors in the terminal stating I lacked permission. However, after
-running the command I did reinitialize the database. 
-
-Note also if reinitializing the datbase you also need to run:
-node scripts/seed.ts
-
-See https://youtu.be/Big_aFLmekI?t=30748 for step-by-step
